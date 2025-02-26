@@ -57,7 +57,7 @@ The dataset used for the analysis: [dataset](./day.csv)
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
+
 - This project was created as a case study required for Executive PG Programme in Machine Learning & AI - IIIT, Bangalore
 - This project was based on UpGrad tutorials on Linear Regression on the learning platform.
 
